@@ -1,0 +1,9 @@
+﻿.colorer-line { background-color: #FFFFFF; }
+.colorer-altLine { background-color: #CCFFFF; }
+.colorer-bracket, .colorer-equal, .colorer-quote, .colorer-cssValue, .colorer-jsKeyWord { color:Blue; }
+.colorer-tag, .colorer-cssIdentifier, .colorer-jsString { color: #993300; }
+.colorer-attribute, .colorer-cssAttr { color: Red; }
+.colorer-lineCount {color: Gray; }
+.colorer-separator {color: Lime; font-weight: bold; }
+.colorer-comment { color:Green; }
+.colorer-target { font-size: 12px; }
